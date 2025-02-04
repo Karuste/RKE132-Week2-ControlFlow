@@ -5,7 +5,7 @@
 //muul juhul
 //konsoolis kuvatakse Welcome 
 
-using System.ComponentModel.Design;
+
 
 Console.WriteLine("Enter your age:");
 
